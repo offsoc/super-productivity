@@ -99,7 +99,7 @@
     "node-fetch": "^2.7.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^18.2.12",
+    "@angular-devkit/build-angular": "^18.2.14",
     "@angular-eslint/builder": "^18.4.2",
     "@angular-eslint/eslint-plugin": "^18.4.2",
     "@angular-eslint/eslint-plugin-template": "^19.0.0",
@@ -208,12 +208,12 @@
     "rxjs": "^6.6.7",
     "shepherd.js": "^11.2.0",
     "stacktrace-js": "^2.0.1",
-    "start-server-and-test": "^1.14.0",
+    "start-server-and-test": "^2.0.10",
     "ts-node": "~10.9.1",
     "tslib": "^2.7.0",
     "typescript": "~5.4.5",
     "utils-decorators": "^2.0.8",
-    "webdav": "~4.11.3",
+    "webdav": "~5.7.1",
     "zone.js": "~0.14.7"
   },
   "overrides": {
